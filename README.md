@@ -27,4 +27,4 @@ O projeto tem como objetivo **praticar consumo de APIs e lógica de programaçã
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/Vandamelloz/pokedex.git
+   git clone [https://github.com/Vandamelloz/pokedex.git](https://github.com/Vandamelloz/pokedex)
